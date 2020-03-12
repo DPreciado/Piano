@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="707.732">
     <Grid>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" Click="Button_Click"/>
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" Margin="100,0,0,0"/>
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" Margin="200,0,0,0"/>
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="419" Background="White" Margin="300,0,0,0"/>
@@ -19,6 +19,18 @@
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="229" Background="Black" Margin="362,0,0,0"/>
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="229" Background="Black" Margin="464,0,0,0"/>
         <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="229" Background="Black" Margin="565,0,0,0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="33,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="134,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="233,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="334,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="436,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="537,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="641,351,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58"/>
+        <TextBlock HorizontalAlignment="Left" Margin="585,156,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="484,156,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="383,156,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="185,156,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="84,156,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" FontSize="48" Height="58" Foreground="White"/>
 
     </Grid>
 </Window>
